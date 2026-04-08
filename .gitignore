@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+/bin/
+
+# Go build cache
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
